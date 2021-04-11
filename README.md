@@ -2,6 +2,9 @@
 
 ## ROADMAP:
 
+### finished work:
+- dump all stock info into csv
+
 ### Tools:
 - visualization API based on matplotlib or others
 - local Database for quick data check
