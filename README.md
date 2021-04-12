@@ -15,3 +15,6 @@
 - statistical method
 - deep learning tools
 - web crawler for news celection
+
+### Finished work:
+- Dump All stock K data from established date in output/stock_database/
