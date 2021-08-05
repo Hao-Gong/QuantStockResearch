@@ -1,6 +1,6 @@
-from dataLoad import load_from_file
+from dataLoad import *
 
 path = './output/history_k_data.csv'
 
-rows = load_from_file(path)
-print(rows)
+# name, data = load_from_file(path)
+getdate(5)
